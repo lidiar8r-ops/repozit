@@ -11,4 +11,3 @@ def new_function():
 
 
 new_function()
-print(reverce_str("hello world"))
