@@ -5,3 +5,9 @@ def reverce_str(str_in:str) -> str:
 
 
 print(reverce_str("hello world"))
+
+def new_function():
+    print("hello world")
+
+
+new_function()
